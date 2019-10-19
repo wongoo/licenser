@@ -1,0 +1,1 @@
+`licenser` a utility to check license, add license header, and etc.
